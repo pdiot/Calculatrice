@@ -1,0 +1,59 @@
+body {
+    background: #20262E;
+    padding: 20px;
+    font-family: Helvetica;
+}
+
+
+button {
+    text-align: center;
+    background: #0084ff;
+    border: none;
+    border-radius: 2px;
+    padding: 8px 14px;
+    font-size: 15px;
+    color: #fff;
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+#banner-message.alt {
+    background: #0084ff;
+    color: #fff;
+    margin-top: 40px;
+    width: 200px;
+}
+
+#banner-message.alt button {
+    background: #fff;
+    color: #000;
+}
+
+.container {
+    width: 50%;
+}
+
+.calc {
+    margin-bottom: 5px;
+}
+
+#results {
+    height: 30px;
+    width: 100%;
+    resize: none;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.col-sm-3 {
+    padding-left: 1px;
+    padding-right: 1px;
+}
+.col-sm-6 {
+    padding-left: 1px;
+    padding-right: 1px;
+}
